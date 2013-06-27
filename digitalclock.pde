@@ -22,4 +22,5 @@ void draw()
   String t = nf(h,2) + ":" + nf(m,2) + ":" + nf(s,2);
   text("The time is", 10, 55);
   text(t, 10, 100);
+  text("Have a good day!", 10, 150);
 }
